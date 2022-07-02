@@ -38,7 +38,6 @@ https://github.com/gmayday1997/SmallObjectAugmentation
 https://github.com/GouMinghao/Car-Distance-Estimation
 https://github.com/leaderj1001/MobileNetV3-Pytorch
 https://github.com/qiexing/face-landmark-localization
-
 NLP:
 https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths
 https://github.com/laiguokun/LSTNet
