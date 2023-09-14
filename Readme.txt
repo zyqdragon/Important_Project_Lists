@@ -1,5 +1,14 @@
-https://github.com/zyqdragon/ICRA2022PaperList
-CV:
+# SLAM
+https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
+https://github.com/ranahanocka/MeshCNN
+https://github.com/irapkaist/SC-LeGO-LOAM
+https://github.com/Akbonline/SLAMPy-Monocular-SLAM-implementation-in-Python
+https://github.com/diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation
+https://github.com/wykxwyc/LeGO-LOAM_NOTED
+https://github.com/laboshinl/loam_velodyne
+https://github.com/search?q=2D-SLAM-By-Nonlinear-Optimization&type=repositories
+# CV:
+https://github.com/rafaelmaeuer/MultiFrameSuperResolution
 https://github.com/hlwang1124/SNE-RoadSeg
 https://github.com/tom-roddick/mono-semantic-maps
 https://github.com/cfzd/Ultra-Fast-Lane-Detection
@@ -39,6 +48,22 @@ https://github.com/gmayday1997/SmallObjectAugmentation
 https://github.com/GouMinghao/Car-Distance-Estimation
 https://github.com/leaderj1001/MobileNetV3-Pytorch
 https://github.com/qiexing/face-landmark-localization
+https://github.com/gonultasbu/ICRA2022PaperList
+https://github.com/AtsushiSakai/PythonRobotics
+https://github.com/idealo/image-super-resolution
+https://github.com/kunzmi/ImageStackAlignator
+https://github.com/CompVis/stable-diffusion
+https://github.com/xiao-hua-sheng/colossalai-chatgpt
+https://github.com/qinzheng93/GeoTransformer
+https://github.com/google-deepmind/mathematics_dataset
+https://github.com/cv516Buaa/tph-yolov5
+https://github.com/luigifreda/pyslam
+https://github.com/ranahanocka/point2mesh
+https://github.com/ryan-brazeal-ufl/OpenPyLivox
+https://github.com/facebookresearch/Mask2Former
+https://github.com/dbolya/yolact
+https://github.com/lucasjinreal/yolov7_d2
 NLP:
 https://github.com/AkariAsai/learning_to_retrieve_reasoning_paths
 https://github.com/laiguokun/LSTNet
+https://github.com/lencx/ChatGPT
