@@ -7,6 +7,7 @@ https://github.com/diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-K
 https://github.com/wykxwyc/LeGO-LOAM_NOTED
 https://github.com/laboshinl/loam_velodyne
 https://github.com/search?q=2D-SLAM-By-Nonlinear-Optimization&type=repositories
+https://github.com/QingyongHu/SpinNet
 # CV:
 https://github.com/rafaelmaeuer/MultiFrameSuperResolution
 https://github.com/hlwang1124/SNE-RoadSeg
