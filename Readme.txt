@@ -8,6 +8,8 @@ https://github.com/wykxwyc/LeGO-LOAM_NOTED
 https://github.com/laboshinl/loam_velodyne
 https://github.com/search?q=2D-SLAM-By-Nonlinear-Optimization&type=repositories
 https://github.com/QingyongHu/SpinNet
+# Decision and Planner
+https://github.com/zyqdragon/MotionPlanning
 # CV:
 https://github.com/rafaelmaeuer/MultiFrameSuperResolution
 https://github.com/hlwang1124/SNE-RoadSeg
