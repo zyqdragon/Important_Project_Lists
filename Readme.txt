@@ -1,3 +1,13 @@
+# big model
+https://github.com/zyqdragon/Langchain-Chatchat
+https://github.com/graphdeco-inria/gaussian-splatting
+https://github.com/langchain-ai/langchain
+https://github.com/THUDM/CogVLM2
+https://github.com/LlamaFamily/Llama-Chinese
+https://github.com/QwenLM/Qwen
+https://github.com/tloen/alpaca-lora
+https://github.com/lucidrains/PaLM-rlhf-pytorch
+https://github.com/Mesywang/Motion-Planning-Algorithms
 # SLAM
 https://github.com/RobustFieldAutonomyLab/LeGO-LOAM
 https://github.com/ranahanocka/MeshCNN
