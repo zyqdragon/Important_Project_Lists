@@ -1,3 +1,23 @@
+# new project
+https://github.com/hku-mars/FAST-LIVO2
+https://github.com/Pointcept/Pointcept
+https://github.com/hku-mars/livox_camera_calib
+https://github.com/naturerobots/mesh_tools
+https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+https://github.com/openpifpaf/openpifpaf
+https://github.com/hku-mars/FAST_LIO
+https://github.com/hku-mars/mlcc
+https://github.com/hustvl/SparseInst
+https://github.com/ethz-asl/kalibr
+https://github.com/zyqdragon/gps_imu_fusion_vip?tab=readme-ov-file
+https://github.com/cvlab-epfl/EPnP
+https://github.com/zhouhaoyi/Informer2020
+https://github.com/hku-mars/livox_camera_calib
+https://github.com/heethesh/lidar_camera_calibration
+https://github.com/paulyehtw/Lidar-and-Radar-sensor-fusion-with-Extended-Kalman-Filter
+https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation
+https://github.com/kaustubh-sadekar/VirtualCam
+
 # big model
 https://github.com/zyqdragon/Langchain-Chatchat
 https://github.com/graphdeco-inria/gaussian-splatting
